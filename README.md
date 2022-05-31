@@ -18,8 +18,8 @@ I'm Mohamed from Morocco, and I do mobile app developement using React-Native. I
 <p align="center">La Mosquée Du Coin offers thousands of mosques around the world based on the user location as well as mosque prayer times and many other features important to the muslim community.</p>
 
 <p align="center">
-<img alt=" LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316363-07644ef2-373f-49b0-96f9-f2166bfc7787.gif" width="30%" height="30%">
-  <img alt="LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316393-c863696b-b702-41c7-af81-351ec898cc06.gif" width="30%" height="30%">
+<img alt=" LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316363-07644ef2-373f-49b0-96f9-f2166bfc7787.gif" width="30%" height=200>
+  <img alt="LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316393-c863696b-b702-41c7-af81-351ec898cc06.gif" width="30%" height=200>
   </p>
   <p>
   <h4>Main implemented features:</h4>
