@@ -18,8 +18,8 @@ I'm Mohamed from Morocco, and I do mobile app developement using React-Native. I
 <p align="center">La Mosquée Du Coin offers thousands of mosques around the world based on the user location as well as mosque prayer times and many other features important to the muslim community.</p>
 
 <p align="center">
-<img alt=" LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316363-07644ef2-373f-49b0-96f9-f2166bfc7787.gif" width=500 height=800>
-  <img alt="LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316393-c863696b-b702-41c7-af81-351ec898cc06.gif" width=500 height=800>
+<img alt=" LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316363-07644ef2-373f-49b0-96f9-f2166bfc7787.gif" width="35%" height=800>
+  <img alt="LA MOSQUEE DU COIN" src="https://user-images.githubusercontent.com/32428883/150316393-c863696b-b702-41c7-af81-351ec898cc06.gif" width="35%" height=800>
   </p>
   <p>
   <h4>Main implemented features:</h4>
@@ -40,8 +40,8 @@ Google play: <link>https://play.google.com/store/apps/details?id=com.mdcandroid&
 <p align="center">iOS and Android app presenting workout plans in a gamified manner. The app features mini games implemented using https://github.com/bberak/react-native-game-engine</p>
 
 <p align="center">
-<img alt="Nerd Workout" src="https://user-images.githubusercontent.com/32428883/150319523-a9f35310-d7ec-4e90-94b4-b3e2b1de10a8.gif" width="30%" height="30%">
-  <img alt="Nerd Workout" src="https://user-images.githubusercontent.com/32428883/150319539-7ef2a130-17ca-48a0-ba7f-bd43e0f00f92.gif" width="30%" height="30%">
+<img alt="Nerd Workout" src="https://user-images.githubusercontent.com/32428883/150319523-a9f35310-d7ec-4e90-94b4-b3e2b1de10a8.gif" width="35%" height=800>
+  <img alt="Nerd Workout" src="https://user-images.githubusercontent.com/32428883/150319539-7ef2a130-17ca-48a0-ba7f-bd43e0f00f92.gif" width="30%" height=800>
   </p>
   <p>
   <h4>Main implemented features:</h4>
@@ -63,7 +63,7 @@ Google play: <link>https://play.google.com/store/apps/details?id=com.workoutchal
 iOS and Android app enabling the muslim community to advertize thier projects</p>
 
 <p align="center">
-<img alt="BON PLAN MUSILIM" src="https://user-images.githubusercontent.com/32428883/150214966-43aeea53-f65b-48bb-ab8d-877afd873833.gif" width="30%" height="30%">
+<img alt="BON PLAN MUSILIM" src="https://user-images.githubusercontent.com/32428883/150214966-43aeea53-f65b-48bb-ab8d-877afd873833.gif" width="35%" height=800>
   </p>
   <p>
   <h4>Main features:</h4>
